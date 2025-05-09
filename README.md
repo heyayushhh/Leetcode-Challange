@@ -1,1 +1,1 @@
-# Leetcode-Challange
+Solved leetcode problems.
